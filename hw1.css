@@ -1,0 +1,14 @@
+.par{
+    font-weight: 200;
+    font-style: normal;
+    font-size: x-large;
+    color: brown;
+    font-family: 'Lemonada', cursive;   
+}
+h1{
+    background-color: aqua;
+    color: brown;
+    width: 100%;
+    text-align: center;
+
+}
